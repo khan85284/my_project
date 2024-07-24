@@ -166,3 +166,66 @@
 2024-07-23 20:02:58,312 - my_project85.scrapping - INFO - Content retrieved from https://httpbin.org/ip has 31 characters
 2024-07-23 20:02:58,314 - my_project85.essential - DEBUG - Running the Essential function
 2024-07-23 20:02:58,314 - my_project85.essential - WARNING - Essential function operation completed
+2024-07-24 13:52:48,924 - my_project85.utils - DEBUG - Running the utility function
+2024-07-24 13:52:48,924 - my_project85.utils - INFO - Utility function operation completed
+2024-07-24 13:52:48,924 - asyncio - DEBUG - Using proactor: IocpProactor
+2024-07-24 13:52:48,924 - my_project85.scrapping - INFO - Fetching URL: https://httpbin.org/get
+2024-07-24 13:52:48,982 - my_project85.scrapping - INFO - Fetching URL: https://httpbin.org/status/404
+2024-07-24 13:52:48,983 - my_project85.scrapping - INFO - Fetching URL: https://httpbin.org/delay/2
+2024-07-24 13:52:48,983 - my_project85.scrapping - INFO - Fetching URL: https://httpbin.org/ip
+2024-07-24 13:52:49,909 - my_project85.scrapping - INFO - Successfully fetched https://httpbin.org/get
+2024-07-24 13:52:49,909 - my_project85.scrapping - DEBUG - Content length of https://httpbin.org/get: 309 characters
+2024-07-24 13:52:49,909 - my_project85.scrapping - INFO - Successfully fetched https://httpbin.org/status/404
+2024-07-24 13:52:49,909 - my_project85.scrapping - DEBUG - Content length of https://httpbin.org/status/404: 0 characters
+2024-07-24 13:52:50,231 - my_project85.scrapping - INFO - Successfully fetched https://httpbin.org/ip
+2024-07-24 13:52:50,231 - my_project85.scrapping - DEBUG - Content length of https://httpbin.org/ip: 31 characters
+2024-07-24 13:52:51,941 - my_project85.scrapping - INFO - Successfully fetched https://httpbin.org/delay/2
+2024-07-24 13:52:51,942 - my_project85.scrapping - DEBUG - Content length of https://httpbin.org/delay/2: 359 characters
+2024-07-24 13:52:51,942 - my_project85.scrapping - INFO - Content retrieved from https://httpbin.org/get has 309 characters
+2024-07-24 13:52:51,943 - my_project85.scrapping - WARNING - No content retrieved from https://httpbin.org/status/404
+2024-07-24 13:52:51,943 - my_project85.scrapping - INFO - Content retrieved from https://httpbin.org/delay/2 has 359 characters
+2024-07-24 13:52:51,943 - my_project85.scrapping - INFO - Content retrieved from https://httpbin.org/ip has 31 characters
+2024-07-24 13:52:51,945 - my_project85.essential - DEBUG - Running the Essential function
+2024-07-24 13:52:51,946 - my_project85.essential - WARNING - Essential function operation completed
+2024-07-24 13:53:26,749 - my_project85.utils - DEBUG - Running the utility function
+2024-07-24 13:53:26,765 - my_project85.utils - INFO - Utility function operation completed
+2024-07-24 13:53:26,765 - asyncio - DEBUG - Using proactor: IocpProactor
+2024-07-24 13:53:26,765 - my_project85.scrapping - INFO - Fetching URL: https://httpbin.org/get
+2024-07-24 13:53:26,807 - my_project85.scrapping - INFO - Fetching URL: https://httpbin.org/status/404
+2024-07-24 13:53:26,808 - my_project85.scrapping - INFO - Fetching URL: https://httpbin.org/delay/2
+2024-07-24 13:53:26,808 - my_project85.scrapping - INFO - Fetching URL: https://httpbin.org/ip
+2024-07-24 13:53:27,564 - my_project85.scrapping - INFO - Successfully fetched https://httpbin.org/get
+2024-07-24 13:53:27,564 - my_project85.scrapping - DEBUG - Content length of https://httpbin.org/get: 309 characters
+2024-07-24 13:53:27,579 - my_project85.scrapping - INFO - Successfully fetched https://httpbin.org/ip
+2024-07-24 13:53:27,579 - my_project85.scrapping - DEBUG - Content length of https://httpbin.org/ip: 31 characters
+2024-07-24 13:53:27,602 - my_project85.scrapping - INFO - Successfully fetched https://httpbin.org/status/404
+2024-07-24 13:53:27,602 - my_project85.scrapping - DEBUG - Content length of https://httpbin.org/status/404: 0 characters
+2024-07-24 13:53:29,912 - my_project85.scrapping - INFO - Successfully fetched https://httpbin.org/delay/2
+2024-07-24 13:53:29,912 - my_project85.scrapping - DEBUG - Content length of https://httpbin.org/delay/2: 359 characters
+2024-07-24 13:53:29,912 - my_project85.scrapping - INFO - Content retrieved from https://httpbin.org/get has 309 characters
+2024-07-24 13:53:29,912 - my_project85.scrapping - WARNING - No content retrieved from https://httpbin.org/status/404
+2024-07-24 13:53:29,912 - my_project85.scrapping - INFO - Content retrieved from https://httpbin.org/delay/2 has 359 characters
+2024-07-24 13:53:29,912 - my_project85.scrapping - INFO - Content retrieved from https://httpbin.org/ip has 31 characters
+2024-07-24 13:53:29,912 - my_project85.essential - DEBUG - Running the Essential function
+2024-07-24 13:53:29,912 - my_project85.essential - WARNING - Essential function operation completed
+2024-07-24 16:00:34,103 - my_project85.utils - DEBUG - Running the utility function
+2024-07-24 16:00:34,104 - my_project85.utils - INFO - Utility function operation completed
+2024-07-24 16:00:34,105 - asyncio - DEBUG - Using proactor: IocpProactor
+2024-07-24 16:00:34,107 - my_project85.scrapping - INFO - Fetching URL: https://httpbin.org/get
+2024-07-24 16:00:34,145 - my_project85.scrapping - INFO - Fetching URL: https://httpbin.org/status/404
+2024-07-24 16:00:34,146 - my_project85.scrapping - INFO - Fetching URL: https://httpbin.org/delay/2
+2024-07-24 16:00:34,147 - my_project85.scrapping - INFO - Fetching URL: https://httpbin.org/ip
+2024-07-24 16:00:35,067 - my_project85.scrapping - INFO - Successfully fetched https://httpbin.org/ip
+2024-07-24 16:00:35,067 - my_project85.scrapping - DEBUG - Content length of https://httpbin.org/ip: 31 characters
+2024-07-24 16:00:35,080 - my_project85.scrapping - INFO - Successfully fetched https://httpbin.org/get
+2024-07-24 16:00:35,080 - my_project85.scrapping - DEBUG - Content length of https://httpbin.org/get: 309 characters
+2024-07-24 16:00:35,175 - my_project85.scrapping - INFO - Successfully fetched https://httpbin.org/status/404
+2024-07-24 16:00:35,176 - my_project85.scrapping - DEBUG - Content length of https://httpbin.org/status/404: 0 characters
+2024-07-24 16:00:37,066 - my_project85.scrapping - INFO - Successfully fetched https://httpbin.org/delay/2
+2024-07-24 16:00:37,067 - my_project85.scrapping - DEBUG - Content length of https://httpbin.org/delay/2: 359 characters
+2024-07-24 16:00:37,067 - my_project85.scrapping - INFO - Content retrieved from https://httpbin.org/get has 309 characters
+2024-07-24 16:00:37,068 - my_project85.scrapping - WARNING - No content retrieved from https://httpbin.org/status/404
+2024-07-24 16:00:37,068 - my_project85.scrapping - INFO - Content retrieved from https://httpbin.org/delay/2 has 359 characters
+2024-07-24 16:00:37,068 - my_project85.scrapping - INFO - Content retrieved from https://httpbin.org/ip has 31 characters
+2024-07-24 16:00:37,070 - my_project85.essential - DEBUG - Running the Essential function
+2024-07-24 16:00:37,070 - my_project85.essential - WARNING - Essential function operation completed

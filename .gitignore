@@ -1,0 +1,26 @@
+
+### 4. **.gitignore**
+
+Ensure that `.env` is included in your `.gitignore` to prevent it from being committed.
+
+```gitignore
+# .gitignore
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Poetry
+poetry.lock
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
