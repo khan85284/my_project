@@ -1,0 +1,42 @@
+2024-07-23 13:02:32,579 - utils - DEBUG - Running the utility function
+2024-07-23 13:02:32,580 - utils - INFO - Utility function operation completed
+2024-07-23 13:02:32,581 - asyncio - DEBUG - Using proactor: IocpProactor
+2024-07-23 13:02:32,582 - scrapping - INFO - Fetching URL: https://httpbin.org/get
+2024-07-23 13:02:32,618 - scrapping - INFO - Fetching URL: https://httpbin.org/status/404
+2024-07-23 13:02:32,619 - scrapping - INFO - Fetching URL: https://httpbin.org/delay/2
+2024-07-23 13:02:32,620 - scrapping - INFO - Fetching URL: https://httpbin.org/ip
+2024-07-23 13:02:33,700 - scrapping - INFO - Successfully fetched https://httpbin.org/get
+2024-07-23 13:02:33,700 - scrapping - DEBUG - Content length of https://httpbin.org/get: 309 characters
+2024-07-23 13:02:33,738 - scrapping - INFO - Successfully fetched https://httpbin.org/status/404
+2024-07-23 13:02:33,739 - scrapping - DEBUG - Content length of https://httpbin.org/status/404: 0 characters
+2024-07-23 13:02:33,782 - scrapping - INFO - Successfully fetched https://httpbin.org/ip
+2024-07-23 13:02:33,782 - scrapping - DEBUG - Content length of https://httpbin.org/ip: 31 characters
+2024-07-23 13:02:35,706 - scrapping - INFO - Successfully fetched https://httpbin.org/delay/2
+2024-07-23 13:02:35,706 - scrapping - DEBUG - Content length of https://httpbin.org/delay/2: 359 characters
+2024-07-23 13:02:35,706 - scrapping - INFO - Content retrieved from https://httpbin.org/get has 309 characters
+2024-07-23 13:02:35,706 - scrapping - WARNING - No content retrieved from https://httpbin.org/status/404
+2024-07-23 13:02:35,706 - scrapping - INFO - Content retrieved from https://httpbin.org/delay/2 has 359 characters
+2024-07-23 13:02:35,706 - scrapping - INFO - Content retrieved from https://httpbin.org/ip has 31 characters
+2024-07-23 13:02:35,706 - essential - DEBUG - Running the Essential function
+2024-07-23 13:02:35,706 - essential - WARNING - Essential function operation completed
+2024-07-23 17:36:10,214 - utils - DEBUG - Running the utility function
+2024-07-23 17:36:10,216 - utils - INFO - Utility function operation completed
+2024-07-23 17:36:10,216 - asyncio - DEBUG - Using proactor: IocpProactor
+2024-07-23 17:36:10,218 - scrapping - INFO - Fetching URL: https://httpbin.org/get
+2024-07-23 17:36:10,254 - scrapping - INFO - Fetching URL: https://httpbin.org/status/404
+2024-07-23 17:36:10,254 - scrapping - INFO - Fetching URL: https://httpbin.org/delay/2
+2024-07-23 17:36:10,255 - scrapping - INFO - Fetching URL: https://httpbin.org/ip
+2024-07-23 17:36:11,222 - scrapping - INFO - Successfully fetched https://httpbin.org/get
+2024-07-23 17:36:11,224 - scrapping - DEBUG - Content length of https://httpbin.org/get: 309 characters
+2024-07-23 17:36:11,352 - scrapping - INFO - Successfully fetched https://httpbin.org/status/404
+2024-07-23 17:36:11,353 - scrapping - DEBUG - Content length of https://httpbin.org/status/404: 0 characters
+2024-07-23 17:36:11,489 - scrapping - INFO - Successfully fetched https://httpbin.org/ip
+2024-07-23 17:36:11,490 - scrapping - DEBUG - Content length of https://httpbin.org/ip: 31 characters
+2024-07-23 17:36:13,201 - scrapping - INFO - Successfully fetched https://httpbin.org/delay/2
+2024-07-23 17:36:13,201 - scrapping - DEBUG - Content length of https://httpbin.org/delay/2: 359 characters
+2024-07-23 17:36:13,201 - scrapping - INFO - Content retrieved from https://httpbin.org/get has 309 characters
+2024-07-23 17:36:13,201 - scrapping - WARNING - No content retrieved from https://httpbin.org/status/404
+2024-07-23 17:36:13,201 - scrapping - INFO - Content retrieved from https://httpbin.org/delay/2 has 359 characters
+2024-07-23 17:36:13,201 - scrapping - INFO - Content retrieved from https://httpbin.org/ip has 31 characters
+2024-07-23 17:36:13,201 - essential - DEBUG - Running the Essential function
+2024-07-23 17:36:13,201 - essential - WARNING - Essential function operation completed
